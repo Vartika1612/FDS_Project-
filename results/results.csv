@@ -1,0 +1,6 @@
+// COMPARISON 
+Model,Accuracy,Precision,Recall,F1 Score
+Logistic Regression,1.0,1.0,1.0,1.0
+Decision Tree,0.999975,0.9999750006250157,0.999975,0.9999708334895893
+KNN,1.0,1.0,1.0,1.0
+
