@@ -154,12 +154,8 @@ Required libraries:
 - matplotlib  
 - scikit-learn  
 
-Install using:
+---
 
-```bash
-pip install pandas numpy matplotlib scikit-learn
-
-##RUN
 How to Run
 Open project folder in VS Code or terminal
 Ensure dataset files are present in Data/
@@ -169,3 +165,6 @@ python Code/SVD_PCA.py
 python Code/comparison.py
 python Code/graphs.py
 View outputs in Results/ folder
+
+
+
