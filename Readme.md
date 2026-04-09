@@ -11,7 +11,7 @@ IoT Botnet Detection using Machine Learning (UNSW Dataset)
 
 | Reg. No.   | Name                     |
 | ---------- | ------------------------ |
-| 23BCE11137 | VARTIKA VASHIHSTHA       |
+| 23BCE11137 | VARTIKA VASHISHTHA       |
 | 23BCE11046 | KUSH PATHAK              |
 | 23BCE11031 | VAIBHAVI AGARWAL         |
 | 23BCE11136 | SUDEEKSHA PACHORI        |
