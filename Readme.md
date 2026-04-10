@@ -6,7 +6,7 @@ IoT Botnet Detection using Machine Learning (UNSW Dataset)
 
 ## Team
 
-- Group: 6
+- Group: 9
 - Members:
 
 | Reg. No.   | Name                     |
